@@ -85,3 +85,4 @@ C:\Users\Vincent\Desktop\prog5proj\SessiesAPP\SessiesAPP\obj\Debug\SessiesAPP.Mi
 C:\Users\Vincent\Desktop\prog5proj\SessiesAPP\SessiesAPP\obj\Debug\SessiesAPP.csproj.GenerateResource.Cache
 C:\Users\Vincent\Desktop\prog5proj\SessiesAPP\SessiesAPP\obj\Debug\SessiesAPP.dll
 C:\Users\Vincent\Desktop\prog5proj\SessiesAPP\SessiesAPP\obj\Debug\SessiesAPP.pdb
+C:\Users\Vincent\Desktop\prog5proj\SessiesAPP\SessiesAPP\obj\Debug\SessiesAPP.csprojResolveAssemblyReference.cache
