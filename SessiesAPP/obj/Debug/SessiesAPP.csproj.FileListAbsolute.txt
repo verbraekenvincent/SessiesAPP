@@ -81,7 +81,6 @@ C:\Users\Vincent\Desktop\prog5proj\SessiesAPP\SessiesAPP\bin\System.Web.Razor.xm
 C:\Users\Vincent\Desktop\prog5proj\SessiesAPP\SessiesAPP\bin\System.Web.WebPages.xml
 C:\Users\Vincent\Desktop\prog5proj\SessiesAPP\SessiesAPP\bin\System.Web.WebPages.Deployment.xml
 C:\Users\Vincent\Desktop\prog5proj\SessiesAPP\SessiesAPP\bin\System.Web.WebPages.Razor.xml
-C:\Users\Vincent\Desktop\prog5proj\SessiesAPP\SessiesAPP\obj\Debug\SessiesAPP.csprojResolveAssemblyReference.cache
 C:\Users\Vincent\Desktop\prog5proj\SessiesAPP\SessiesAPP\obj\Debug\SessiesAPP.Migrations.initial.resources
 C:\Users\Vincent\Desktop\prog5proj\SessiesAPP\SessiesAPP\obj\Debug\SessiesAPP.csproj.GenerateResource.Cache
 C:\Users\Vincent\Desktop\prog5proj\SessiesAPP\SessiesAPP\obj\Debug\SessiesAPP.dll

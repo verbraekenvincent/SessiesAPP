@@ -4,12 +4,10 @@ using System.Data.Entity.ModelConfiguration.Conventions;
 
 namespace SessiesAPP.DAL
 {
-    public class SessionContext
+    public class SessionContext:  DbContext
     {
-        public class SchoolContext : DbContext
-        {
-
-            public SchoolContext() : base("SchoolContext")
+        
+           public SessionContext() 
             {
             }
 
@@ -21,4 +19,3 @@ namespace SessiesAPP.DAL
             }
         }
     }
-}
